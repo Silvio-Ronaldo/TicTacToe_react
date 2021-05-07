@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/tictactoe-logo.png" alt="Tic Tac Toe React Logo" height=100 />
+  <img src="./assets/tictactoe-logo.png" alt="Tic Tac Toe React Logo" height=200 width=200 />
 </h1>
 
 <p align="center"><strong>#️⃣ The old and famous tic-tac-toe, made in React</strong></br>Practical project for study<p>
