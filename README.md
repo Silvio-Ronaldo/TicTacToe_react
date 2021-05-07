@@ -49,16 +49,21 @@
   <strong>To access and play the Tic Tac Toe website, click on the link: https://tic-tac-toe-react-beryl.vercel.app</strong>
 </p>
 
-<h3>How to play</h3>
+<h3>X - Winner</h3>
   <p align="center">
-    <img src="./assets/home.gif" alt="How to play Tic Tac Toe" />
+    <img src="./assets/ticatactoe-x-winner.gif" alt="X winner Tic Tac Toe" />
+  </p>
+  
+<h3>O - Winner</h3>
+  <p align="center">
+    <img src="./assets/tictactoe-o-winner.gif" alt="O winner Tic Tac Toe" />
   </p>
   
   
 <h2>🔥 Extra Features</h2>
 <h3>History of old moves</h3>
   <p align="center">
-    <img src="./assets/dark-theme.gif" alt="History of old moves in Tic Tac Toe" />
+    <img src="./assets/history-moves.gif" alt="History of old moves in Tic Tac Toe" />
   </p>
  
  
